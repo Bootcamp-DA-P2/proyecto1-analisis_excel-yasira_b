@@ -22,4 +22,4 @@ Desarrollo del dashboard:
 
     *Fue necesario cambiar el formato del libro a .xlsm para poder integrar la barra de desplazamiento con código VBA. 
 
-    ![Dashboard image](image.png)
+![Dashboard image](image.png)
