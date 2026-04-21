@@ -19,3 +19,5 @@ Desarrollo del dashboard:
     Para que el diseño fuera armonioso y en la línea de la web de Kiva, se han escogido los colores principales con un colorpicker y se han aplicado al dashboard. También se ha buscado un logo en formato png para incluirlo. 
 
     5. Una vez finalizado el dashboard, se ocultan las hojas auxiliares y se procede a limpiar la vista eliminando lineas de cuadrículas, cintas de opciones, etc. dejando el dashboard únicamente visible para que la experiencia sea de aplicación y no muestre que excel está corriendo por debajo. 
+
+    *Fue necesario cambiar el formato del libro a .xlsm para poder integrar la barra de desplazamiento con código VBA. 
