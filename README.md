@@ -21,3 +21,5 @@ Desarrollo del dashboard:
     5. Una vez finalizado el dashboard, se ocultan las hojas auxiliares y se procede a limpiar la vista eliminando lineas de cuadrículas, cintas de opciones, etc. dejando el dashboard únicamente visible para que la experiencia sea de aplicación y no muestre que excel está corriendo por debajo. 
 
     *Fue necesario cambiar el formato del libro a .xlsm para poder integrar la barra de desplazamiento con código VBA. 
+
+    ![Dashboard image](image.png)
